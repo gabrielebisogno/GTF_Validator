@@ -1,0 +1,14 @@
+#ecco il secondo file di test
+140	Twinscan	inter	5141	8522	.	-	.	transcript_id ""; gene_id ""; 	
+140	Twinscan	inter_CNS	8523	9711	.	-	.	transcript_id ""; gene_id ""; 	
+140	Twinscan	inter	9712	13182	.	-	.	transcript_id ""; gene_id ""; 	
+140	Twinscan	3UTR	65149	65487	.	-	.	transcript_id "140.000.1"; gene_id "140.000"; 
+140	Twinscan	3UTR	66823	66992	.dsd 995	.	-	0	transcript_id "140.000.1"; gene_id "140.000"; 
+140	Twinscan	CDS	66996	66999	.sdsa	-	1	transcript_id "140.000.1"; gene_id "140.000"; 
+140	Twin sdascan	intron_CNS	70103	70151	.	-	.	transcript_id "140.000.1"; gene_id "140.000"; #cacca landn 
+140	Twinscan	CDS	70207	70294	.	-	2	transcript_id "140.000.1"; gene_id "14sd,masd,msa0.000"; 
+140	Twinscan	CDS	71696	71807	.	-	0	transcript_id "140.000.1"; gene_id "140.000"; 
+140	Twinscan	start_codsad,on	71805	71806	.	-	0	transcript_id "140.000.1"; gene_id "140.000"; 
+140	Twinscan	start_codon	73222	73224	.	-	2	transcript_id "140.000.1"; gene_id "140.000"; #ciaomondo ciao
+140	Twinscan	CDS	74000	75000	.	-	0	transcript_id "140.000.1"; gene_id "140.000"; 
+140	Twinscan	5UTR	76000	77000	.	-	.	transcript_id "140.000.1"; gene_id "140.000"; 
